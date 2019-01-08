@@ -7,7 +7,7 @@
 
 ### A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more.
 
-  Created by [Frank](https://www.github.com/fmorrison42)
+  Curated by [Frank](https://www.github.com/fmorrison42)
 
 
 <br>
