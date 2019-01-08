@@ -20,7 +20,7 @@ This list is a collection of various materials that I use every day in my work. 
 
 ### For whom?
 
-It is intended for everyone and anyone - especially for System and Network Administrators, DevOps, Pentesters or Security Researchers.
+It is intended for everyone and anyone - especially for System and Network Administrators, DevOps, and Programmers.
 
 ### Contributing
 
