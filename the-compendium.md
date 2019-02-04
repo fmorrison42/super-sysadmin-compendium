@@ -42,7 +42,7 @@ Url marked **\*** is temporary unavailable. Please don't delete it without confi
 - [ ] Add in all the Batch files and Powershell scripts used. 
 
 
-## Table of Contents
+## Table of Contents (#anger-table-of-contents)
 
 Only main chapters:
 
@@ -61,7 +61,6 @@ Only main chapters:
 - **[One-liners](#one-liners-toc)**
 
 # The Super SysAdmin Grimoire 
-## (Chapters)
 
 
 ## Programming / Scripting 
@@ -179,20 +178,20 @@ Only main chapters:
 #### Mass scanners (search engines)
 
 
- [https://www.shodan.io/"><b>Shodan</b></a> - the world's first search engine for Internet-connected devices.<br>
- [https://2000.shodan.io/#/"><b>Shodan 2000</b></a> - do you use Shodan for everyday work? This tool looks for randomly generated data from Shodan.<br>
+ [https://www.shodan.io/]<b>Shodan</b></a> - the world's first search engine for Internet-connected devices.<br>
+ [https://2000.shodan.io/#/]<b>Shodan 2000</b></a> - do you use Shodan for everyday work? This tool looks for randomly generated data from Shodan.<br>
 
- [https://www.zoomeye.org/"><b>ZoomEye</b></a> - search engine for cyberspace that lets the user find specific network components.<br>
- [https://fofa.so/"><b>FOFA</b></a> - is a cyberspace search engine.<br>
- [https://www.onyphe.io/"><b>onyphe</b></a> - is a search engine for open-source and cyber threat intelligence data collected.<br>
+ [https://www.zoomeye.org/]<b>ZoomEye</b></a> - search engine for cyberspace that lets the user find specific network components.<br>
+ [https://fofa.so/]<b>FOFA</b></a> - is a cyberspace search engine.<br>
+ [https://www.onyphe.io/]<b>onyphe</b></a> - is a search engine for open-source and cyber threat intelligence data collected.<br>
 
- [https://hunter.io/"><b>hunter</b></a> - lets you find email addresses in seconds and connect with the people that matter for your business.<br>
- [https://wigle.net/"><b>wigle</b></a> - is a submission-based catalog of wireless networks. All the networks. Found by Everyone.<br>
- [https://publicwww.com/"><b>PublicWWW</b></a> - find any alphanumeric snippet, signature or keyword in the web pages HTML, JS and CSS code.<br>
- [https://inteltechniques.com/menu.html"><b>IntelTechniques</b></a> - this repository contains hundreds of online search utilities.<br>
- [https://ghostproject.fr/"><b>GhostProject?</b></a> - search by full email address or username. <br>
- [https://buckets.grayhatwarfare.com/"><b>Buckets by Grayhatwarfar</b></a> - database with public search for Open Amazon S3 Buckets and their contents.<br>
- [https://vigilante.pw/"><b>Vigilante.pw</b></a> - the breached database directory.<br>
+ [https://hunter.io/]<b>hunter</b></a> - lets you find email addresses in seconds and connect with the people that matter for your business.<br>
+ [https://wigle.net/]<b>wigle</b></a> - is a submission-based catalog of wireless networks. All the networks. Found by Everyone.<br>
+ [https://publicwww.com/]<b>PublicWWW</b></a> - find any alphanumeric snippet, signature or keyword in the web pages HTML, JS and CSS code.<br>
+ [https://inteltechniques.com/menu.html]<b>IntelTechniques</b></a> - this repository contains hundreds of online search utilities.<br>
+ [https://ghostproject.fr/]<b>GhostProject?</b></a> - search by full email address or username. <br>
+ [https://buckets.grayhatwarfare.com/]<b>Buckets by Grayhatwarfar</b></a> - database with public search for Open Amazon S3 Buckets and their contents.<br>
+ [https://vigilante.pw/]<b>Vigilante.pw</b></a> - the breached database directory.<br>
 
 
 #### Passwords
@@ -225,6 +224,12 @@ Only main chapters:
 - [GNS3](https://www.gns3.com/) - GNS3 offers an easy way to design and build networks of any size without the need for hardware.
 - [NRE Labs](https://labs.networkreliability.engineering/) - learn automation by doing it. Right now, right here, in your browser.
 
+
+### Online GUI & CLI Tools (#anger-table-of-contents)
+
+#### Online Text & Markdown Editors
+
+- [StackEdit](https://stackedit.io/) - Online in-browser markdown editor, real-time updates visualization.
 
 ### Manuals/Howtos/Tutorials (#anger-table-of-contents)
 
