@@ -42,7 +42,7 @@ Url marked **\*** is temporary unavailable. Please don't delete it without confi
 - [ ] Add in all the Batch files and Powershell scripts used. 
 
 
-## Table of Contents (#anger-table-of-contents)
+## Table of Contents
 
 Only main chapters:
 
