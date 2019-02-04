@@ -52,6 +52,7 @@ Only main chapters:
 - **[Web Tools](#web-tools-toc)**
 - **[Systems/Services](#systemsservices-toc)**
 - **[Networks](#networks-toc)**
+- **[Online GUI & CLI Tools](#onlinetools)**
 - **[Manuals/Howtos/Tutorials](#manualshowtostutorials-toc)**
 - **[Awesome Lists](#awesome-lists-toc)**
 - **[Blogs](#blogs-toc)**
