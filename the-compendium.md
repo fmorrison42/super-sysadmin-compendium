@@ -380,6 +380,9 @@ Only main chapters:
 
 ### Other Cheat Sheets (#anger-table-of-contents)
 
+#### Windows Command Line Stuffs
+
+- [RoboCopy and a Few Examples](https://social.technet.microsoft.com/wiki/contents/articles/1073.robocopy-and-a-few-examples.aspx#Mirror_a_directory_with_subfolders_incl_empty_directories)
 
 #### Build your own Certificate Authority
 
