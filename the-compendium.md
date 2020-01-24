@@ -69,7 +69,9 @@ Url marked **\*** is temporary unavailable. Please don't delete it without confi
 
 - [BlueScreenView](https://www.nirsoft.net/utils/blue_screen_view.html) - Blue Screen of Death (BSOD) (STOP Errors) information in dump files
 
+### Network Troubleshooting
 
+- [IP Chicken](https://www.ipchicken.com/) - What's my IP onling tool and other misc related to HTTPS.
 ## Programming / Scripting 
 
 ### Python
