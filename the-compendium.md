@@ -63,15 +63,41 @@ Url marked **\*** is temporary unavailable. Please don't delete it without confi
 # The Super SysAdmin Grimoire 
 
 
-## Windows
+## Windows / Network Engineer Tools & Sites
 
-### Troubleshooting
+### PC / Server Troubleshooting
+
+#### Online Tools
 
 - [BlueScreenView](https://www.nirsoft.net/utils/blue_screen_view.html) - Blue Screen of Death (BSOD) (STOP Errors) information in dump files
 
+#### Program / Installed Tools
+
+
+
+
+
 ### Network Troubleshooting
 
+#### Online Tools
+
 - [IP Chicken](https://www.ipchicken.com/) - What's my IP onling tool and other misc related to HTTPS.
+
+#### Program / Installed Tools
+
+- [Wireshark](https://www.wireshark.org/) - is the world’s foremost and widely-used network protocol analyzer.
+
+
+### Network / Web Troubleshooting
+
+- [MX Toolbox - Supertool](https://mxtoolbox.com/SuperTool.aspx) - All of your MX record, DNS, blacklist and SMTP diagnostics in one integrated tool.
+- [Network-Tools](https://network-tools.com/) - network tools for webmasters, IT technicians & geeks.
+- [GeoPeeker](https://geopeeker.com/home/default) - See how a site appears to the rest of the world.
+
+
+
+
+
 ## Programming / Scripting 
 
 ### Python
@@ -91,7 +117,7 @@ Url marked **\*** is temporary unavailable. Please don't delete it without confi
 
 ### Network
 
-- [Wireshark](https://www.wireshark.org/) - is the world’s foremost and widely-used network protocol analyzer.
+
 
 
 ### Password Managers
@@ -114,14 +140,6 @@ Url marked **\*** is temporary unavailable. Please don't delete it without confi
 - [Sublime Text](https://www.sublimetext.com/3) - is a lightweight, cross-platform code editor known for its speed, ease of use.
 - [Visual Studio Code](https://code.visualstudio.com/) - an open-source and free source code editor developed by Microsoft.
 
-#### Terminal emulators
-
- [MacOS]
-
-- Termius
-
- [Windows]
-
 
 
 ### CLI Tools 
@@ -130,7 +148,7 @@ Url marked **\*** is temporary unavailable. Please don't delete it without confi
 
 - [NMAP](https://nmap.org/) - free and open source (license) utility for network discovery and security auditing.
 - [tcpdump](https://www.tcpdump.org/) - powerful command-line packet analyzer.
-- [WireShark](https://www.wireshark.org/) - dump and analyze network traffic
+
 
 
 
@@ -171,7 +189,7 @@ Url marked **\*** is temporary unavailable. Please don't delete it without confi
 
 #### Net-tools
 
-- [Network-Tools](https://network-tools.com/) - network tools for webmasters, IT technicians & geeks.
+
 - [RegExr](https://regexr.com/) - online tool to learn, build, & test Regular Expressions (RegEx / RegExp).
 - [Hardenize](https://www.hardenize.com/) - deploy the security standards.
 - [VirusTotal](https://www.virustotal.com/#/home/upload) - analyze suspicious files and URLs to detect types of malware.
@@ -327,28 +345,9 @@ Url marked **\*** is temporary unavailable. Please don't delete it without confi
 - [Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - from finding text to search and replace, from sorting to beautifying text and more.
 
 
-### Blogs (#anger-table-of-contents)
 
-#### Geeky Persons
 
-<p>
- [http://www.brendangregg.com/"><b>Brendan Gregg's Blog</b></a> - Brendan Gregg is an industry expert in computing performance and cloud computing.<br>
- [http://gynvael.coldwind.pl/"><b>Gynvael "GynDream" Coldwind</b></a> - Gynvael is a IT security engineer at Google.<br>
- [http://lcamtuf.coredump.cx/"><b>Michał "lcamtuf" Zalewski</b></a> - "white hat" hacker, computer security expert.<br>
- [https://ma.ttias.be/"><b>Mattias Geniar</b></a> - developer, Sysadmin, Blogger, Podcaster and Public Speaker.<br>
- [https://nickcraver.com/"><b>Nick Craver</b></a> - Software Developer and Systems Administrator for Stack Exchange.<br>
- [https://robert.penz.name/"><b>Robert Penz</b></a> - IT security Expert.<br>
- [https://scotthelme.co.uk/"><b>Scott Helme</b></a> - Security Researcher, international speaker and founder of securityheaders.com and report-uri.com.<br>
- [https://twitter.com/binitamshah"><b>Binni Shah</b></a> - Linux Evangelist. Malwares. Kernel Dev. Security Enthusiast.<br>
- [https://security.szurek.pl/"><b>Kacper Szurek</b></a> - Detection Engineer at ESET.<br>
- [https://www.troyhunt.com/"><b>Troy Hunt</b></a> -  Microsoft Regional Director and Microsoft Most Valuable Professional for Developer Security.<br>
- [https://raymii.org/s/index.html"><b>raymii.org</b></a> - linux/unix sysadmin specializing in building high availability cloud environments.<br>
-</p>
 
-#### Geeky Blogs
-
-- [Linux Audit](https://linux-audit.com/) - the Linux security blog about Auditing, Hardening and Compliance by Michael Boelen.
-- [Linux Security Expert](https://linuxsecurity.expert/) - trainings, howtos, checklists, security tools and more.
 - [The Grymoire](http://www.grymoire.com/) - collection of useful incantations for wizards, be you computer wizards, magicians, or whatever.
 
 
@@ -357,7 +356,7 @@ Url marked **\*** is temporary unavailable. Please don't delete it without confi
 - [How to Do Things at ARL](http://ftp.arl.army.mil/~mike/howto/) - how to configure modems, scan images, record CD-ROMs, and other useful techniques.
 
 
-### Hacking/Penetration Testing (#anger-table-of-contents)
+
 
 
 ### Your daily knowledge and news [<sup>[TOC]</sup>](#anger-table-of-contents)
@@ -367,23 +366,6 @@ Url marked **\*** is temporary unavailable. Please don't delete it without confi
 - [Pocket Reader](https://getpocket.com) - Save articles, videos and stories from any publication, page or app. Curate your own space filled with everything you can't wait to learn.
 - [Feedly](https://feedly.com/) - organize, read and share what matters to you.
 
-
-#### Security
-
-<p>
- [https://securitynewsletter.co/"><b>Security Newsletter</b></a> - security news as a weekly digest (email notifications).<br>
- [https://security.googleblog.com/"><b>Google Online Security Blog</b></a> - the latest news and insights from Google on security and safety on the Internet.<br>
- [https://blog.qualys.com/"><b>Qualys Blog</b></a> - expert network security guidance and news.<br>
- [https://www.darkreading.com/"><b>DARKReading</b></a> - connecting the Information Security Community.<br>
- [https://twitter.com/disclosedh1"><b>publiclyDisclosed</b></a> - public disclosure watcher who keeps you up to date about the recently disclosed bugs.<br>
- [https://packetstormsecurity.com/"><b>Packet Storm</b></a> - information security services, news, files, tools, exploits, advisories and whitepapers.<br>
- [https://sekurak.pl/"><b>Sekurak</b></a> - about security, penetration tests, vulnerabilities and many others (PL/EN).<br>
- [https://nfsec.pl/"><b>nf.sec</b></a> - basic aspects and mechanisms of Linux operating system security (PL).<br>
-</p>
-
-#### Miscellaneous
-
-- [Laugh along with GNU](https://www.gnu.org/fun/) - This is a web page designed to provide some laughs to the working hackers. It contains software, documentation, music, poems, etc. submitted by GNU users and collected by GNU contributors over the years.
 
 
 ### Other Cheat Sheets (#anger-table-of-contents)
@@ -398,12 +380,7 @@ Url marked **\*** is temporary unavailable. Please don't delete it without confi
  [https://jamielinux.com/docs/openssl-certificate-authority/"><b>OpenSSL Certificate Authority</b></a> - build your own certificate authority (CA) using the OpenSSL command-line tools.<br>
 </p>
 
-#### Build your own System/Virtual Machine
 
-<p>
-   [https://github.com/cfenollosa/os-tutorial"><b>os-tutorial</b></a> - how to create an OS from scratch.<br>
- [https://justinmeiners.github.io/lc3-vm/"><b>Write your Own Virtual Machine</b></a> - how to write your own virtual machine (VM).<br>
-</p>
 
 ##### DNS Servers list (privacy)
 
