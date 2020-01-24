@@ -44,8 +44,7 @@ Url marked **\*** is temporary unavailable. Please don't delete it without confi
 
 ## Table of Contents
 
-Only main chapters:
-
+- **[Windows](#windows-troubleshooting-toc)**
 - **[Programming / Scripting](#programming-scripting-toc)**
 - **[GUI Tools](#gui-tools-toc)**
 - **[CLI Tools](#cli-tools-toc)**
@@ -62,6 +61,13 @@ Only main chapters:
 - **[One-liners](#one-liners-toc)**
 
 # The Super SysAdmin Grimoire 
+
+
+## Windows
+
+### Troubleshooting
+
+- [BlueScreenView](https://www.nirsoft.net/utils/blue_screen_view.html) - Blue Screen of Death (BSOD) (STOP Errors) information in dump files
 
 
 ## Programming / Scripting 
